@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="hello_world">ToolBar</string>
+    <string name="action_edit">action_edit</string>
+    <string name="action_share">action_share</string>
+    <string name="action_more">action_more</string>
+</resources>
